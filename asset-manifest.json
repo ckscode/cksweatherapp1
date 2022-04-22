@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cksweatherapp/static/css/main.9da9d052.css",
+    "main.js": "/cksweatherapp/static/js/main.f525f9a5.js",
+    "static/media/appbackground.jpg": "/cksweatherapp/static/media/appbackground.524a62509b31a16bd163.jpg",
+    "index.html": "/cksweatherapp/index.html",
+    "main.9da9d052.css.map": "/cksweatherapp/static/css/main.9da9d052.css.map",
+    "main.f525f9a5.js.map": "/cksweatherapp/static/js/main.f525f9a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da9d052.css",
+    "static/js/main.f525f9a5.js"
+  ]
+}
